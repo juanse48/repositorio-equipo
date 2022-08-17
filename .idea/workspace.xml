@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e33af4f2-616d-416a-b71d-cb5c66bda50c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/JuanSebastian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JuanSebastian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LuisPerez.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,5 +54,16 @@
       <updated>1660775572626</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
