@@ -6,9 +6,13 @@
   <component name="ChangeListManager">
 <<<<<<< HEAD
     <list default="true" id="e33af4f2-616d-416a-b71d-cb5c66bda50c" name="Changes" comment="">
+<<<<<<< HEAD:.idea/workspace1.xml
       <change beforePath="$PROJECT_DIR$/src/LuisPerez.java" beforeDir="false" />
+
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> js:.idea/workspace.xml
     </list>
-=======
+
     <list default="true" id="e33af4f2-616d-416a-b71d-cb5c66bda50c" name="Changes" comment="" />
 >>>>>>> LuisPerez
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +46,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/jaider/Desktop/ProyectosCiclo3/repositorio-equipo&quot;
-=======
+
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Project.color": "043952",
